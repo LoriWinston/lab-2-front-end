@@ -1,0 +1,26 @@
+ul { 
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    list-style: none;
+}
+
+li { 
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    border: lightblue 5px solid;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #A0DDE6;
+    }
+
+img { 
+    border-radius: 1.5em;
+    border: lightseagreen 2px;
+}
