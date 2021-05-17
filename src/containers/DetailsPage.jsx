@@ -1,5 +1,5 @@
-import React, { component } from 'react';
-import './Containers.css';
+import React, { Component } from 'react';
+import './Container.css';
 
 export default class DetailsPage extends Component {
     state = {
