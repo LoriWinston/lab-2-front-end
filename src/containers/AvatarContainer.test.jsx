@@ -13,6 +13,8 @@ describe('AvatarContainer', () => {
 
         const ul = await screen.findByRole('list', { name: 'characters'})
         expect(ul).not.toBeEmptyDOMElement()
+
+       
         
     });
 });
